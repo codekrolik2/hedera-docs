@@ -1,3 +1,5 @@
+https://github.com/codekrolik2/hedera-docs/tree/master/core-concepts/hashgraph-consensus-algorithms
+
 ---
 cover: .gitbook/assets/HH-Eco-Hero-Desktop-R1.webp
 coverY: -16.77342463378693
